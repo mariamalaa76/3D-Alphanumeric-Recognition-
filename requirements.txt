@@ -1,0 +1,24 @@
+# --- Core Deep Learning & Computer Vision ---
+torch
+torchvision
+ultralytics
+opencv-python
+scikit-learn
+timm
+
+# --- 3D Modeling & Rendering ---
+chumpy
+smplx
+trimesh
+pyrender
+yacs
+einops
+
+# --- Integration & Monitoring ---
+fastapi
+uvicorn
+python-multipart
+wandb
+
+# --- Direct GitHub Dependencies ---
+git+https://github.com/vchoutas/smplx.git
